@@ -1,6 +1,6 @@
 # Chat App
 
-Das ist ein schon etwas älteres Projekt von mir. Es ist eine Chat App die ich in PHP geschrieben habe.
+Das ist ein schon etwas älteres Projekt von mir (Anfang 2. Ausbildungsjahr). Es ist eine Chat App die ich in PHP geschrieben habe.
 Es benutzt eine MySQL Datenbank um die User und Nachrichten zu speichern und einen WebSocket Server um die Nachrichten in Echtzeit zu versenden.
 
 ## Verwendete Technologien
