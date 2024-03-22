@@ -28,3 +28,9 @@ Es benutzt eine MySQL Datenbank um die User und Nachrichten zu speichern und ein
 3. Apache/MySQL Server starten
 4. Datenbank.sql in Datenbank importieren
 5. start.bat ausführen oder direct `php chatserver.php` in der Konsole eingeben
+
+
+## Screenshots
+![image](https://github.com/KreativeName1/Chat-V1/assets/115576847/474d9e17-d4b6-465b-a00a-52684729a18b)
+![image](https://github.com/KreativeName1/Chat-V1/assets/115576847/564ed4f4-3f59-44f2-b86c-9e7ce2ac502c)
+
